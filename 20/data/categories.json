@@ -6,13 +6,13 @@
       "name" : "expected [true] but found [false]",
       "children" : [ {
         "name" : "dontFixMe",
-        "uid" : "5c35e8bdfce34b97",
+        "uid" : "8d5c90f8e852f913",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1652487591493,
-          "stop" : 1652487591495,
-          "duration" : 2
+          "start" : 1652488488057,
+          "stop" : 1652488488071,
+          "duration" : 14
         },
         "flaky" : false,
         "newFailed" : false,

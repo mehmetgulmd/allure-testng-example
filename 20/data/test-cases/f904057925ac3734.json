@@ -1,0 +1,94 @@
+{
+  "uid" : "f904057925ac3734",
+  "name" : "engine",
+  "fullName" : "com.costa.luiz.testng.AirplaneTest.engine",
+  "historyId" : "dc69b5b72c43c361105188d919c7bbdd",
+  "time" : {
+    "start" : 1652488488040,
+    "stop" : 1652488488041,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "engine"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az75-753"
+  }, {
+    "name" : "thread",
+    "value" : "2319@fv-az75-753.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Engine"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Rolls-Royce"
+  }, {
+    "name" : "arg1",
+    "value" : "100"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d792c5d30298322c",
+        "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/d792c5d30298322c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652487591487,
+          "stop" : 1652487591487,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f904057925ac3734.json",
+  "parameterValues" : [ "Rolls-Royce", "100" ]
+}

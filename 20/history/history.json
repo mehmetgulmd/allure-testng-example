@@ -1,94 +1,23 @@
 {
-  "bd0afc8668796a99084fe48196470937" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "bab81d5f4a87f848",
-      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/bab81d5f4a87f848",
-      "status" : "passed",
-      "time" : {
-        "start" : 1652487591521,
-        "stop" : 1652487591522,
-        "duration" : 1
-      }
-    } ]
-  },
-  "fa27067897cb5138782269ca053cd026" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "270ae098464303c",
-      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/270ae098464303c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1652487591463,
-        "stop" : 1652487591472,
-        "duration" : 9
-      }
-    } ]
-  },
-  "22f246d5be9f120662bfc507b84400fc" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "e7fe66fe393e65a7",
-      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/e7fe66fe393e65a7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1652487591512,
-        "stop" : 1652487591512,
-        "duration" : 0
-      }
-    } ]
-  },
-  "dc69b5b72c43c361105188d919c7bbdd" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d792c5d30298322c",
-      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/d792c5d30298322c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1652487591487,
-        "stop" : 1652487591487,
-        "duration" : 0
-      }
-    } ]
-  },
   "8c78ea56933b0a2bf715419b7d0fb0eb" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "c79e7c2eca6ef9e4",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/c79e7c2eca6ef9e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488053,
+        "stop" : 1652488488053,
+        "duration" : 0
+      }
+    }, {
       "uid" : "1fc306e67015474b",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/1fc306e67015474b",
       "status" : "passed",
@@ -104,11 +33,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "7ba6d2b4e8ca2ef7",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/7ba6d2b4e8ca2ef7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488077,
+        "stop" : 1652488488077,
+        "duration" : 0
+      }
+    }, {
       "uid" : "32d244fffe6d8927",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/32d244fffe6d8927",
       "status" : "passed",
@@ -124,11 +62,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "104fa3eb503519f0",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/104fa3eb503519f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488048,
+        "stop" : 1652488488049,
+        "duration" : 1
+      }
+    }, {
       "uid" : "5045b6317e0cbff0",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/5045b6317e0cbff0",
       "status" : "passed",
@@ -139,16 +86,172 @@
       }
     } ]
   },
+  "2a55ef5c9841c3bbcfa87221280805df" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8d5c90f8e852f913",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/8d5c90f8e852f913",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1652488488057,
+        "stop" : 1652488488071,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "5c35e8bdfce34b97",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/5c35e8bdfce34b97",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1652487591493,
+        "stop" : 1652487591495,
+        "duration" : 2
+      }
+    } ]
+  },
+  "bd0afc8668796a99084fe48196470937" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "eae7af000ff3d7d3",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/eae7af000ff3d7d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488089,
+        "stop" : 1652488488090,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bab81d5f4a87f848",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/bab81d5f4a87f848",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591521,
+        "stop" : 1652487591522,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fa27067897cb5138782269ca053cd026" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b53d04dd620a8e19",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/b53d04dd620a8e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488487982,
+        "stop" : 1652488488004,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "270ae098464303c",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/270ae098464303c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591463,
+        "stop" : 1652487591472,
+        "duration" : 9
+      }
+    } ]
+  },
+  "22f246d5be9f120662bfc507b84400fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a98e38ad1d573b22",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/a98e38ad1d573b22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488082,
+        "stop" : 1652488488083,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e7fe66fe393e65a7",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/e7fe66fe393e65a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591512,
+        "stop" : 1652487591512,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dc69b5b72c43c361105188d919c7bbdd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f904057925ac3734",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/f904057925ac3734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488040,
+        "stop" : 1652488488041,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d792c5d30298322c",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/d792c5d30298322c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591487,
+        "stop" : 1652487591487,
+        "duration" : 0
+      }
+    } ]
+  },
   "6523d7a5c8c9897ac50d8cbbb7c421fa" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "ad596802b806f533",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/ad596802b806f533",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488086,
+        "stop" : 1652488488086,
+        "duration" : 0
+      }
+    }, {
       "uid" : "c8eff6ffcab5ca2f",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/c8eff6ffcab5ca2f",
       "status" : "passed",
@@ -164,11 +267,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "752c1ee1e94d15c4",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/752c1ee1e94d15c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488029,
+        "stop" : 1652488488031,
+        "duration" : 2
+      }
+    }, {
       "uid" : "5634f1c137541121",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/5634f1c137541121",
       "status" : "passed",
@@ -185,10 +297,19 @@
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
-      "unknown" : 1,
-      "total" : 1
+      "unknown" : 2,
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "86476f489096c524",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/86476f489096c524",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652488487785,
+        "stop" : 1652488487788,
+        "duration" : 3
+      }
+    }, {
       "uid" : "99655a4ecd25b19",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/99655a4ecd25b19",
       "status" : "unknown",
@@ -199,37 +320,25 @@
       }
     } ]
   },
-  "2a55ef5c9841c3bbcfa87221280805df" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "5c35e8bdfce34b97",
-      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/5c35e8bdfce34b97",
-      "status" : "failed",
-      "statusDetails" : "expected [true] but found [false]",
-      "time" : {
-        "start" : 1652487591493,
-        "stop" : 1652487591495,
-        "duration" : 2
-      }
-    } ]
-  },
   "d5709af0980197a6aa4dd6e111b2470" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "628804deab9aad47",
+      "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/628804deab9aad47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652488488019,
+        "stop" : 1652488488020,
+        "duration" : 1
+      }
+    }, {
       "uid" : "8998421fe66c089a",
       "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/8998421fe66c089a",
       "status" : "passed",

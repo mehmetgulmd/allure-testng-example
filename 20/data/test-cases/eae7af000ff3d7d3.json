@@ -1,0 +1,88 @@
+{
+  "uid" : "eae7af000ff3d7d3",
+  "name" : "brakes",
+  "fullName" : "com.costa.luiz.testng.AirplaneTest.brakes",
+  "historyId" : "bd0afc8668796a99084fe48196470937",
+  "time" : {
+    "start" : 1652488488089,
+    "stop" : 1652488488090,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "brakes"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az75-753"
+  }, {
+    "name" : "thread",
+    "value" : "2319@fv-az75-753.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Safety"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "bab81d5f4a87f848",
+        "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20//#testresult/bab81d5f4a87f848",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652487591521,
+          "stop" : 1652487591522,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "eae7af000ff3d7d3.json",
+  "parameterValues" : [ ]
+}

@@ -6,4 +6,12 @@
     "run" : 12,
     "retry" : 0
   }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "https://mehmetgulmd.github.io/allure-testng-example/20/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
 } ]
