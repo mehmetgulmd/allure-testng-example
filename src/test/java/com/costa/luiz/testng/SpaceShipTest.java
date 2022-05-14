@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 
 @Feature("Imperial to Metric")
 public class SpaceShipTest {
-
     @Test(description = "Check the measure to be metric")
     void checkMeasureToBeMetric() {
         double yard = 5d;
