@@ -1,0 +1,254 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Entertainment",
+    "children" : [ {
+      "name" : "entertainmentSystem",
+      "uid" : "99655a4ecd25b19",
+      "parentUid" : "b9466e4265800a03f7fad4b31b96ac10",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652487591329,
+        "stop" : 1652487591331,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b9466e4265800a03f7fad4b31b96ac10"
+  }, {
+    "name" : "Issuing Bank",
+    "children" : [ {
+      "name" : "validateCard",
+      "uid" : "270ae098464303c",
+      "parentUid" : "10c5bc5ef0a73839b3975e0cde3c22c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591463,
+        "stop" : 1652487591472,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "validateTransaction",
+      "uid" : "8998421fe66c089a",
+      "parentUid" : "10c5bc5ef0a73839b3975e0cde3c22c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591477,
+        "stop" : 1652487591477,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "rollbackATransaction",
+      "uid" : "5634f1c137541121",
+      "parentUid" : "10c5bc5ef0a73839b3975e0cde3c22c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591483,
+        "stop" : 1652487591483,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "00" ]
+    } ],
+    "uid" : "10c5bc5ef0a73839b3975e0cde3c22c1"
+  }, {
+    "name" : "Payment",
+    "children" : [ {
+      "name" : "validateCard",
+      "uid" : "270ae098464303c",
+      "parentUid" : "f172aa0a5557083d30926d1b432950b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591463,
+        "stop" : 1652487591472,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "validateTransaction",
+      "uid" : "8998421fe66c089a",
+      "parentUid" : "f172aa0a5557083d30926d1b432950b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591477,
+        "stop" : 1652487591477,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "rollbackATransaction",
+      "uid" : "5634f1c137541121",
+      "parentUid" : "f172aa0a5557083d30926d1b432950b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591483,
+        "stop" : 1652487591483,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "00" ]
+    }, {
+      "name" : "dontFixMe",
+      "uid" : "5c35e8bdfce34b97",
+      "parentUid" : "f172aa0a5557083d30926d1b432950b3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652487591493,
+        "stop" : 1652487591495,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "sendAMessage",
+      "uid" : "32d244fffe6d8927",
+      "parentUid" : "f172aa0a5557083d30926d1b432950b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591510,
+        "stop" : 1652487591510,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Success", "Payment accepted" ]
+    }, {
+      "name" : "sendAMessage",
+      "uid" : "e7fe66fe393e65a7",
+      "parentUid" : "f172aa0a5557083d30926d1b432950b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591512,
+        "stop" : 1652487591512,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Failure", "Payment not accepted" ]
+    } ],
+    "uid" : "f172aa0a5557083d30926d1b432950b3"
+  }, {
+    "name" : "Engine",
+    "children" : [ {
+      "name" : "engine",
+      "uid" : "d792c5d30298322c",
+      "parentUid" : "f25c67ca5990a97692f326001976292b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591487,
+        "stop" : 1652487591487,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Rolls-Royce", "100" ]
+    }, {
+      "name" : "engine",
+      "uid" : "5045b6317e0cbff0",
+      "parentUid" : "f25c67ca5990a97692f326001976292b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591489,
+        "stop" : 1652487591489,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "General Electric", "99" ]
+    }, {
+      "name" : "engine",
+      "uid" : "1fc306e67015474b",
+      "parentUid" : "f25c67ca5990a97692f326001976292b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591491,
+        "stop" : 1652487591491,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Pratt & Whitney", "200" ]
+    } ],
+    "uid" : "f25c67ca5990a97692f326001976292b"
+  }, {
+    "name" : "Internal system",
+    "children" : [ {
+      "name" : "sendAMessage",
+      "uid" : "32d244fffe6d8927",
+      "parentUid" : "452620582c4e0520be46d8205f4c0dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591510,
+        "stop" : 1652487591510,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Success", "Payment accepted" ]
+    }, {
+      "name" : "sendAMessage",
+      "uid" : "e7fe66fe393e65a7",
+      "parentUid" : "452620582c4e0520be46d8205f4c0dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591512,
+        "stop" : 1652487591512,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Failure", "Payment not accepted" ]
+    } ],
+    "uid" : "452620582c4e0520be46d8205f4c0dda"
+  }, {
+    "name" : "Imperial to Metric",
+    "children" : [ {
+      "name" : "Check the measure to be metric",
+      "uid" : "c8eff6ffcab5ca2f",
+      "parentUid" : "538d97c080921e49c985ad07086ddf1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591515,
+        "stop" : 1652487591515,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "538d97c080921e49c985ad07086ddf1d"
+  }, {
+    "name" : "Safety",
+    "children" : [ {
+      "name" : "brakes",
+      "uid" : "bab81d5f4a87f848",
+      "parentUid" : "ec9d27a3aeba22f1b5fc5d032eeea9c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652487591521,
+        "stop" : 1652487591522,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ec9d27a3aeba22f1b5fc5d032eeea9c6"
+  } ],
+  "name" : "behaviors"
+}
