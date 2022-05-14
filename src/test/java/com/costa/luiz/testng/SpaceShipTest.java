@@ -14,7 +14,6 @@ public class SpaceShipTest {
         // Call the service to calculate etc...
         Assert.assertEquals(convertToMeter(yard), meter);
     }
-
     private double convertToMeter(double yard) {
         // Don't do this at home, this should be outside the test class
         return yard * 0.9144d;
